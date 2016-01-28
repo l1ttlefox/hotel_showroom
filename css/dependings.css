@@ -1,0 +1,200 @@
+/*================main_page==============*/
+
+#main_page .border{
+	border-color:#4cb9cf;
+}
+#main_page .color{
+	color:#4cb9cf!important;
+}
+#main_page .background{
+	background:rgb(76, 185, 207);
+}
+#main_page .background_light{
+	background:rgba(76, 185, 207, 0.2);
+}
+#main_page .background:hover{
+	background:#316b77;
+}
+
+/*================red_style==============*/
+
+#red_style .border{
+	border-color:#9c0058;
+}
+#red_style .color_light{
+	color:#b54082!important;
+}
+#red_style .color{
+	color:#9c0058!important;
+}
+#red_style .background{
+	background:rgb(156, 0, 88);
+}
+#red_style .background_light{
+	background:rgba(156, 0, 88, 0.2);
+}
+#red_style .proposal_name{
+	background:rgba(156, 0, 88, 0.5);
+}
+#red_style .border_light{
+	border-color:#b54082;
+}
+#red_style a.background:hover, .hotel_nav .background:hover{
+	background:#b54082;
+}
+#red_style .hn_dd_item:hover{
+	background:rgba(156, 0, 88, 0.2);
+}
+#red_style .map_acc_item:hover{
+	background:rgba(156, 0, 88, 0.2);
+}
+#red_style .area_dd_item:hover{
+	background:rgba(156, 0, 88, 0.2);
+}
+#red_style .video_slide:after{
+	background-color:rgba(156, 0, 88, 0.85);
+}
+#red_style .feedback_user_info:before{
+	background-color:#9c0058;
+}
+#red_style .hotel_location{
+	background-image:url("/images/map_marker_9c0058.png");
+}
+#red_style .hotel_fun{
+	background-image:url("/images/star_marker_9c0058.png");
+}
+#red_style .hotel_food{
+	background-image:url("/images/food_marker_9c0058.png");
+}
+/*====================================*/
+.red_style .border{
+	border-color:#9c0058!important;
+}
+.red_style .color{
+	color:#9c0058!important;
+}
+.red_style .background{
+	background:rgb(156, 0, 88);
+}
+.red_style .background_light{
+	background:rgba(156, 0, 88, 0.2);
+}
+.red_style .room_include_wr{
+	background:rgba(156, 0, 88, 0.6);
+}
+.red_style .border_light{
+	border-color:#b54082;
+}
+.red_style a.background:hover, .hotel_nav .background:hover{
+	background:#b54082;
+}
+.red_style .hn_dd_item:hover{
+	background:rgba(156, 0, 88, 0.2);
+}
+.red_style .video_slide:after{
+	background-color:rgba(156, 0, 88, 0.85);
+}
+
+.red_style .jspDrag{
+	background:rgb(156, 0, 88);
+}
+.red_style .room_facility:before{
+	background:rgb(156, 0, 88);
+}
+/*====================================*/
+/*================green_style==============*/
+
+
+/*================blue_style==============*/
+
+#blue_style .border{
+	border-color:#316b77;
+}
+#blue_style .color{
+	color:#316b77!important;
+}
+#blue_style .color_light{
+	color:#4cb9cf!important;
+}
+#blue_style .background{
+	background-color:rgb(49, 185, 207);
+}
+#blue_style .background_dark{
+	background-color:#316b77!important;
+}
+#blue_style .background_light{
+	background:rgba(76, 185, 207, 0.2);
+}
+#blue_style .proposal_name{
+	background:rgba(76, 185, 207, 0.5);
+}
+#blue_style .background:hover{
+	background-color:#316b77;
+}
+
+#blue_style .color_light{
+	color:#4cb9cf!important;
+}
+
+#blue_style .border_light{
+	border-color:#a6dce7;
+}
+#blue_style a.background:hover, .hotel_nav .background:hover{
+	background-color:#316b77;
+}
+#blue_style .hn_dd_item:hover,#blue_style .map_acc_item:hover,
+#blue_style .area_dd_item:hover
+{
+	background:rgba(76, 185, 207, 0.2);
+}
+#blue_style .video_slide:after{
+	background-color:rgba(76, 185, 207, 0.85);
+}
+#blue_style .feedback_user_info:before{
+	background-color:#316b77;
+}
+#blue_style .hotel_location{
+	background-image:url("/images/map_marker_4cb9cf.png");
+}
+#blue_style .hotel_fun{
+	background-image:url("/images/star_marker_4cb9cf.png");
+}
+#blue_style .hotel_food{
+	background-image:url("/images/food_marker_4cb9cf.png");
+}
+/*=============for_pop_ups=================*/
+.blue_style .border{
+	border-color:#4cb9cf!important;
+}
+.blue_style .color{
+	color:#4cb9cf!important;
+}
+.blue_style .background{
+	background-color:#316b77;
+}
+.blue_style .background_light{
+	background:rgba(76, 185, 207, 0.2);
+}
+.blue_style .room_include_wr{
+	background:rgba(76, 185, 207, 0.6);
+}
+.blue_style .border_light{
+	border-color:#a6dce7;
+}
+.blue_style a.background:hover, .hotel_nav .background:hover{
+	background-color:#316b77;
+}
+.blue_style .hn_dd_item:hover,.blue_style .map_acc_item:hover{
+	background:rgba(76, 185, 207, 0.2);
+}
+.blue_style .video_slide:after{
+	background-color:rgba(76, 185, 207, 0.85);
+}
+
+.blue_style .jspDrag{
+	background:#316b77;;
+}
+.blue_style .room_facility:before{
+	background:#316b77;
+}
+/*================brown_style==============*/
